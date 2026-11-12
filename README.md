@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Robert👋
 
-<!--
-**rbrtary/rbrtary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Artificial intelligence  & Big Data student at **Soegijapranata Catholic University** (5th semester), focused on **data engineering, fullstack development, and machine learning**.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** HTML · CSS · Laravel · Python · SQL
+**Data & Databases:** PostgreSQL · Pandas · NumPy
+**Machine Learning:** scikit-learn
+**Tools:** Git · Linux (Ubuntu) · VS Code · Jupyter
+
+## 🚀 What I'm Working On
+
+- 🔄 Real-time data processing with PostgreSQL triggers and LISTEN/NOTIFY
+- 🔍 Full-text search on product reviews using PostgreSQL
+- 📚 Preparing for software developer internships
+
+## 📫 Connect With Me
+
+- LinkedIn: [www.linkedin.com/in/roberthartono]
+- Email: [robertaryawanharta@gmail.com]
